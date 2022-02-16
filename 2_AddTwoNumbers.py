@@ -26,4 +26,5 @@ linked = (2)
 
 answer = list1 + list2
 
+
 print(answer)
